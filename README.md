@@ -31,6 +31,22 @@ Projet One Page 48e unité scout Impeesa
 * Correction de l'insertion de la vidéo youtube qui n'était pas responsive.
 * Problème d'alignement des puces pour les liste à puces et de centrage du contenu texte des listes sans que les puces restent alignées à gauche.
 
+## A améliorer
+
+* J'ai réaliser un slideshow en html et css pur. L'inconvénient c'est que cela nécessite un code html assez long pour insérer chaque image. Je vais tenter de me renseigner sur la possibilité d'utiliser un script javascript qui affiche automatiquement en boucle les images contenue dans un dossier sité à la racine du site et qui ne nécessite pas plusieurs lignes de code pour chaque images et permet un ajout ou un retrait facile d'image en les ajoutant ou en les supprimant directement du dossier d'images du slideshow.
+
+* Je dois approfondir tout le code superflu concernant la mise en page sous forme de colonne pour mieux le comprendre. Dans la même optique, je dois apprendre le fonctionnement de bootstrap, 960 grid, boilerplate et bBlueprint pour faciliter et accélérer mes développements et utiliser plus facilement les templates basé sur ces systèmes de grilles responsives.
+
+* Je pourrais introduire des effets visuels intéressants en incluant des petits effets visuels intéressants grâce à la bibliothèque JQuery
+
+## Ce que j'ai appris
+
+* Usage d'un template pour gagner du temps. J'ai obtenu un resultat convenable dans le temps imparti
+* Adaptation d'un template et ajout de code pour pouvoir le rendre conforme à mes besoins
+* Recours à CodePen et W3schools pour trouver des ressources de code intéressantes et réutilisable dans mon projet
+* Amélioration de ma connaissance de la console d'inspecteur de Chrome (encore à approfondir)
+* Adaptation de la mise en forme en colonne pour obtenir un affichage sur 2 colonnes ou lieu de 3.
+
 
 
 
