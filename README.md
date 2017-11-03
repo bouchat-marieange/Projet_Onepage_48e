@@ -2,6 +2,10 @@
 
 Projet One Page 48e unité scout Impeesa
 
+La page est accessible via la Github Page suivante: 
+
+**https://bouchat-marieange.github.io/Projet_Onepage_48e/**
+
 ## Consignes
 
 * Réalisé une onepage dans un délai bref (2 demi-journée) pour une association caritative
