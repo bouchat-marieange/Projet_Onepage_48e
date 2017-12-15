@@ -238,6 +238,18 @@
 			</div>
 
 		<!-- Scripts -->
+
+		<!-- Progressive webapp -->
+			<script src="/upup.min.js"></script> <!-- Ajout script upup service worker pour PWA - Progressive web app pour amélioration du score lighthouse -->
+			<!-- Lancement du script de Upup qui charge la page offline nécessaire pour la web app . il faut créer une copie du code du fichier html, l'appeler offline.html et le placer à la racine du site.-->
+			<script>
+					UpUp.start({
+						'content-url': 'offline.html',
+						'assets': ['css/bootstrap.min.css', 'css/offline.css']
+					});
+			</script>
+
+		<!--Elements JQuery du Template -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
